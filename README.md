@@ -14,3 +14,6 @@
 2. 大模型+搜索推荐
 
 ## Hub list
+| hub name | crrator｜hub link |
+| --- | --- | --- |
+| MyDB | zhouchengyu | https://github.com/deepblue2333/MyDB |
